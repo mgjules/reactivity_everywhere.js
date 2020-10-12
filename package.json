@@ -1,0 +1,29 @@
+{
+  "name": "lightning",
+  "version": "1.0.0",
+  "description": "Lightning talk",
+  "main": "src/intro.js",
+  "scripts": {
+    "prob": "node src/prob.js",
+    "solu": "node src/solu.js",
+    "solu2": "node src/solu2.js",
+    "intro": "node src/intro.js",
+    "simultaneous": "node src/simultaneous.js"
+  },
+  "keywords": [
+    "lightning",
+    "talk",
+    "devcon",
+    "vue",
+    "vuejs",
+    "backend",
+    "express"
+  ],
+  "author": "JulesMike",
+  "license": "MIT",
+  "dependencies": {
+    "@vue/reactivity": "^3.0.0-rc.9",
+    "cli-progress": "^3.8.2",
+    "http-server": "^0.12.3"
+  }
+}
