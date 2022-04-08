@@ -2,7 +2,7 @@
 
 ### /user/me
 - Jules (aka mike)
-- Senior Web Developer @ BOCASAY
+- Senior Go Developer @ Ringier SA
 
 ---
 
@@ -17,7 +17,7 @@
 
 > In short, reactivity means, the result of a computation, which has dependencies, will be **automatically updated** when the **dependencies change**.
 
-- *[ Demo - Browser ]*
+- [ Demo - Browser ](https://docs.google.com/spreadsheets/d/1qBh76wu7NltHSzHjCHg2NqICYlWcp3OoPO_GPsO_05E/edit#gid=0)
 
 ---
 
@@ -35,6 +35,7 @@
 - Modern: (usual suspects)
   - Vue
   - React
+  - SolidJS
   - Angular
   - Svelte
   - Aurelia
@@ -64,7 +65,7 @@
 
 ### /reactivity/solution/everywhere
 
-Vue 3 is just around the corner and sports a function-based API approach which exposes some powerful functionalities.
+Vue 3 is ~~just around the corner~~ finally here and sports a function-based API approach which exposes some powerful functionalities.
 
 What does that mean?
 

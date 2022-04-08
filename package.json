@@ -1,7 +1,7 @@
 {
-  "name": "lightning",
-  "version": "1.0.0",
-  "description": "Lightning talk",
+  "name": "reactivity_everywhere",
+  "version": "1.0.1",
+  "description": "Lightning presentation",
   "main": "src/intro.js",
   "scripts": {
     "prob": "node src/prob.js",
@@ -12,18 +12,18 @@
   },
   "keywords": [
     "lightning",
-    "talk",
-    "devcon",
+    "presentation",
+    "meetup",
     "vue",
     "vuejs",
-    "backend",
-    "express"
+    "nodejs",
+    "reactivity"
   ],
   "author": "JulesMike",
   "license": "MIT",
   "dependencies": {
-    "@vue/reactivity": "^3.0.0-rc.9",
-    "cli-progress": "^3.8.2",
-    "http-server": "^0.12.3"
+    "@vue/reactivity": "^3.2.31",
+    "cli-progress": "^3.10.0",
+    "http-server": "^14.1.0"
   }
 }
