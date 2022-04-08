@@ -8,7 +8,8 @@
     "solu": "node src/solu.js",
     "solu2": "node src/solu2.js",
     "intro": "node src/intro.js",
-    "simultaneous": "node src/simultaneous.js"
+    "simultaneous": "node src/simultaneous.js",
+    "counter": "node src/counter.js"
   },
   "keywords": [
     "lightning",

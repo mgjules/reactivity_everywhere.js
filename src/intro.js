@@ -1,4 +1,4 @@
-const {reactive, effect} = require('@vue/reactivity')
+const { reactive, effect } = require('@vue/reactivity')
 
 // reactive makes the provided object reactive. duh!
 const power = reactive({
@@ -10,5 +10,5 @@ effect(() => {
     console.info('level =', power.level)
 })
 
-// setInterval executes the provided (i.e arrow) function every 1s
+// setInterval executes the provided function (i.e arrow) every 1s
 setInterval(() => power.level++, 1000)
