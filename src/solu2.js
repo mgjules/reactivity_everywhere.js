@@ -1,4 +1,4 @@
-const { ref, computed,  } = require('@vue/reactivity')
+const { ref, computed } = require('@vue/reactivity')
 
 // const deps = reactive({
 //     a: 2,
